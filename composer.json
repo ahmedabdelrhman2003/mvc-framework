@@ -1,0 +1,10 @@
+{
+    "name": "intcore-013/mvc-framework",
+    "autoload": {
+        "psr-4": {
+           "app\\": "./"
+        }
+    },
+    
+    "require": {}
+}
